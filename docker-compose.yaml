@@ -1,13 +1,15 @@
 services:
   minecraft-server:
     image: itzg/minecraft-server:stable
+    tty: true
+    stdin_open: true
     ports:
       - "25565:25565"
     environment:
       EULA: "TRUE"
       VERSION: "1.21.1"
       TYPE: "NEOFORGE"
-      PACKWIZ_URL: "file:///packwiz/pack.toml"
+      NEOFORGE_VERSION: "21.1.206"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/gusluchetti/mc-minty-modpack/refs/heads/main/pack.toml"
     volumes:
       - /home/lab/gaming/minecraft/minty:/data
-      - ./:/packwiz:ro
