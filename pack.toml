@@ -1,0 +1,13 @@
+name = "Mc Minty Modpack"
+author = "sushii"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "210d3a655fccfd2cd6c669e7d61bdc3f107c7ff7918c60715d34f389476c44c2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.206"

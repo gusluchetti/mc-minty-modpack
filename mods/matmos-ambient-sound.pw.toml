@@ -1,0 +1,13 @@
+name = "MAtmos - Ambient sound"
+filename = "MAtmos-7.1-Neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bTSEAgRY/versions/gOvDQ1FC/MAtmos-7.1-Neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d2810b108e6aa6a86ec16256d3fc4270624e40990aa561cc9c5c8c8c61238c6dc6789d62581f37b0bc5047767b4e71cb7c4fc6fc3a1e959ae1346441e6764997"
+
+[update]
+[update.modrinth]
+mod-id = "bTSEAgRY"
+version = "gOvDQ1FC"

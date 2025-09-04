@@ -1,0 +1,13 @@
+name = "TCT Core"
+filename = "TCTcore-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MlsBPB9a/versions/ZEwfHLJa/TCTcore-1.21.1.jar"
+hash-format = "sha512"
+hash = "6c94897ded193e6ea317c5fdef86d72db0c904d8c8a8eb39c81c3c3adb3ce3e23b071a6ef4a151c03521619a191cfaa903dac21941c656653f334ff41dfcef99"
+
+[update]
+[update.modrinth]
+mod-id = "MlsBPB9a"
+version = "ZEwfHLJa"
