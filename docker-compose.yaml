@@ -6,7 +6,8 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "NEOFORGE"
-      PACKWIZ_URL: "file:///pack.toml"
+      PACKWIZ_URL: "file:///packwiz/pack.toml"
     volumes:
       - /home/lab/gaming/minecraft/minty:/data
+      - ./:/packwiz:ro
     restart: unless-stopped
