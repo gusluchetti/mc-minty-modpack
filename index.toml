@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "docker-compose.yaml"
+hash = "4127a5c60cf370d2d4dd8fb768cd0ccea24d5e92fa9088b9c8f19ca0c5a4d82d"
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "23fa7746f7e0d4a3b6fcb176ab05b923d3a1f7553d349339567abcfec77295b4"
 metafile = true
@@ -17,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/matmos-ambient-sound.pw.toml"
-hash = "8e3ad8bba5461a7099e6bd8315cd988d5f1f1f8dd71186f4a06747244385dcf9"
+hash = "40ea58633addaa4a11ce89214a77eec28d7b5b23d958819408a4170bfbf945e0"
 metafile = true
 
 [[files]]
