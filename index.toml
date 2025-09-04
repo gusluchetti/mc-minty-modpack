@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/matmos-ambient-sound.pw.toml"
-hash = "40ea58633addaa4a11ce89214a77eec28d7b5b23d958819408a4170bfbf945e0"
+hash = "8e3ad8bba5461a7099e6bd8315cd988d5f1f1f8dd71186f4a06747244385dcf9"
 metafile = true
 
 [[files]]
