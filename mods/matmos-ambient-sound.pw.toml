@@ -1,6 +1,6 @@
 name = "MAtmos - Ambient sound"
 filename = "MAtmos-7.1-Neoforge-1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bTSEAgRY/versions/gOvDQ1FC/MAtmos-7.1-Neoforge-1.21.1.jar"
