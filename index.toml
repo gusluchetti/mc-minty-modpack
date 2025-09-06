@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/terratonic.pw.toml"
-hash = "991cefa1c6130dcd623b07dce176edb0505f01a98a67ee2d5eaefb2b38ed7550"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "5594206fedc34eee3fbb11838581059d54e2e9b4ac7b92014cdf56e280f8b318"
 metafile = true
@@ -26,8 +21,8 @@ hash = "a2e45be5fae5f8fea2c595db28e903af1288922d3c0ae0fbc0314a73a5e37620"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+file = "mods/c2me-neoforge.pw.toml"
+hash = "23fa7746f7e0d4a3b6fcb176ab05b923d3a1f7553d349339567abcfec77295b4"
 metafile = true
 
 [[files]]
@@ -58,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
@@ -101,6 +101,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
@@ -113,9 +118,4 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "0c5fb562ada595d9222e9e12879b5f3a98907c1af71e5339feb3223c7ba49a92"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
