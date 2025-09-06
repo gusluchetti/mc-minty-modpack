@@ -11,6 +11,11 @@ hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "47de6174c2050b31efe0fd4c005cfae4bf99c15525d2a952969396b7e38ac3b6"
 metafile = true
