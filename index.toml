@@ -6,6 +6,11 @@ hash = "5594206fedc34eee3fbb11838581059d54e2e9b4ac7b92014cdf56e280f8b318"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "4ce71c31b4e8427048b872a58ee88d4f3b7c1405485df449753bf4cedce27b56"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "b44cdc63630e34652ff2b94811e4b5c0d4cb038bb9006d919fe62488045623d2"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+metafile = true
+
+[[files]]
+file = "mods/butchery.pw.toml"
+hash = "cab6f98c8091c78af0fa232849303b7ce31afab5210fd85ab08f94e7163d8786"
 metafile = true
 
 [[files]]
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
